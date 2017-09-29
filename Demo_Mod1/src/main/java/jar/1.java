@@ -1,2 +1,0 @@
-Printf "Hello World"
-qwdewfewf
